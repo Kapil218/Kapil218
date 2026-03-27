@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kapil 👋
 
-<!--
-**Kapil218/Kapil218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer · React · Node.js · Next.js · TypeScript  
+Currently @ TO THE NEW | Ex-agprop
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · Vue.js · TypeScript · Tailwind CSS · Redux  
+**Backend:** Node.js · Express.js · REST APIs · Kafka  
+**Database:** PostgreSQL · MongoDB  
+**Cloud:** AWS  
+
+---
+
+## 📌 What I'm working on
+- Building scalable full-stack apps at TO THE NEW
+
+---
+
+## 📬 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/kapil-singh-rathore-42443a22a)  
+📧 kapilsinghrathore218@gmail.com
+
+
+
+![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
